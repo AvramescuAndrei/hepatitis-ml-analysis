@@ -39,6 +39,3 @@ The project analyzes a medical dataset consisting of 155 patient records with 19
 
 ## Contributors
 - Andrei Avramescu
-
-## Author
-Andrei Avramescu
